@@ -1,0 +1,5 @@
+{"theme_color":"#f56a6a","background_color":"#f56a6a","icons":[
+    {"purpose":"maskable","sizes":"512x512","src":"/manifest_and_icons/icon512_maskable.png","type":"image/png"},
+    {"purpose":"any","sizes":"512x512","src":"/manifest_and_icons/icon512_rounded.png","type":"image/png"}],
+    "orientation":"portrait","display":"standalone","dir":"auto","lang":"pt-BR","name":"LocalizaVacina","short_name":"LV","start_url":"home.html",
+    "description":"Nosso site simplifica a busca por locais de vacinação na cidade do Recife, fornecendo informações sobre pontos próximos, horários e tipos de vacinas disponíveis. Proteja sua saúde e de sua família com apenas alguns cliques!"}
